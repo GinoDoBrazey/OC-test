@@ -1,3 +1,4 @@
 Le nom des nuages est  :
 - nimbus
 - cumulonimbus
+- stratus - nouveau type de nuage découvert à 14h38
